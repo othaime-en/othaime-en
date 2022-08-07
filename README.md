@@ -10,7 +10,6 @@
 
 :bulb: Extremely curious, overzealous about tech, reads a tonne of multidisciplinary stuff, loves to help out when I can.
 
-![](https://komarev.com/ghpvc/?username=othaime-en)
 
 <!--
 **othaime-en/othaime-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
