@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm othaime-en 👋
 
-:smiley: I'm othaime-en, a web3 and cybersecurity enthusiast who is here to learn and have fun while doing it.
+:smiley: I'm a web3 and cybersecurity enthusiast who is here to learn and have fun while doing it.
 
 🌱 I'm currently working on both spaces and learning a tonne of stuff too.
 
