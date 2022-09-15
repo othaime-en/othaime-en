@@ -11,6 +11,10 @@
 :bulb: Extremely curious, overzealous about tech, reads a tonne of multidisciplinary stuff, loves to help out when I can.
 
 
+---
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=othaime-en&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" alt="othaime-en's Streaks" /></p>
+
 <!--
 **othaime-en/othaime-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
