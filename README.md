@@ -1,15 +1,16 @@
-### Hi there, I'm othaime-en 👋
+### Hey nerd!
 
-:smiley: I'm a web3 and cybersecurity enthusiast who is here to learn and have fun while doing it.
+othaimeen.
 
-🌱 I'm currently working on both spaces and learning a tonne of stuff too.
+I'm building stuff, orchestrating agents, and learning systems thinking. I create CLI tools sometimes
 
-👯 I'm open to any collaboration in building DAPPs, auditing them for vulnerabilities and anything security related (both web2 and web3)
+Currently deep in backend infrastructure and actively exploring ML/AI, building niche models
 
-:rocket: I'm obsessed with astronomy and space exploration so wake me up any time to talk about it.
+Previously did Web3 development and distributed systems.
 
-:bulb: Extremely curious, overzealous about tech, reads a tonne of multidisciplinary stuff, loves to help out when I can.
+Obsessed with space, astronomy
 
+Open to collaborations
 
 ---
 
